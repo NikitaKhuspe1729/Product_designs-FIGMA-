@@ -1,5 +1,11 @@
 # Product_designs-FIGMA-
 
+![ramanika figma1](https://github.com/NikitaKhuspe1729/Product_designs-FIGMA-/assets/125488086/c497b4ef-c696-43f6-a6bf-b1e3970c6bad)
+![ramanika figma2](https://github.com/NikitaKhuspe1729/Product_designs-FIGMA-/assets/125488086/03536ec8-8b06-4dcb-9b68-329b0fe95f58)
+![vibha collection figma](https://github.com/NikitaKhuspe1729/Product_designs-FIGMA-/assets/125488086/3c13c19f-190f-4489-9325-03991d49e553)
+
+
+
 # Smartwatch Technical
 
 ![techwatch 1](https://github.com/NikitaKhuspe1729/Advertisements_designs/assets/125488086/20f43a90-decf-47ca-aaaf-5a459f24d7df)
